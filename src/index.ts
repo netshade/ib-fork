@@ -32,6 +32,7 @@ import { IBApi } from "./api/api";
 
 export {
   IBApi,
+  IBApiCreationOptions,
   EventName,
   LogLevel,
   OptionExerciseAction,
